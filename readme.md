@@ -1,4 +1,6 @@
 # Quantifying Rhetoric
+*talk by Emily Schumm.  Find me on LinkedIn or follow me @ecschumm*
+
 
 ## Preparation
 You will need:
